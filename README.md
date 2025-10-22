@@ -6,6 +6,14 @@
 
 
 
+
+
+
+
+
+
+
+
 1) Add the two ZIP libraries to Arduino IDE (Windows / macOS / Linux)
 
 Method A — Using Arduino IDE (recommended, works for .zip without extracting)
